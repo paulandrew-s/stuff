@@ -1,0 +1,13 @@
+https://lumen-api.u-next.com/api/evaluationservice/quiz/startResume
+https://lumen-api.u-next.com/api/evaluationservice/quiz/startResume
+https://lumen-api.u-next.com/api/quizservice/learnerquizzes/quiz-details/ba872fa5-e932-4e2a-8211-f73f4b678c1f?project=headerSettings,footerSettings,quizSettings,submitButtonSettings,isGradable,enablePoints,focusMode,instructionSettings,allowedBreachesTimes,reportDisplaySettings.showScoreToLearner,reportDisplaySettings.showReportToLearner,focusMode,isIAEnabled
+https://lumen-api.u-next.com/api/evaluationservice/quiz/getQuestions?questionIds=af8f895d-16cb-4efe-8eaf-b1ecbde2187f&attemptId=e87a0dd0-01a7-4d7e-98cc-d366605a6f06
+https://lumen-api.u-next.com/api/quizservice/learnerquizzes/quiz-details/ba872fa5-e932-4e2a-8211-f73f4b678c1f?project=headerSettings,footerSettings,quizSettings,submitButtonSettings,isGradable,enablePoints,focusMode,instructionSettings,allowedBreachesTimes,reportDisplaySettings.showScoreToLearner,reportDisplaySettings.showReportToLearner,focusMode,isIAEnabled
+https://lumen-api.u-next.com/api/evaluationservice/quiz/getQuestions?questionIds=af8f895d-16cb-4efe-8eaf-b1ecbde2187f&attemptId=e87a0dd0-01a7-4d7e-98cc-d366605a6f06
+https://lumen.u-next.com/assets/images/icons/quiz-learner/Answered.svg
+https://lumen.u-next.com/assets/images/icons/quiz-learner/Unanswered.svg
+https://lumen.u-next.com/assets/images/icons/quiz-learner/Ongoing.svg
+https://lumen.u-next.com/assets/images/icons/quiz-learner/Union_146.svg
+https://lumen.u-next.com/assets/images/icons/lc-dashboard/student/forward-option1.svg
+https://lumen.u-next.com/assets/images/icons/quiz-dashboard/completion%20time.svg
+https://v.clarity.ms/collect
